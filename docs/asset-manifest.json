@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cs7580sp21-seattle/zitao_shen_assignment3/static/css/main.02054cf4.chunk.css",
+    "main.js": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/main.dbbc3951.chunk.js",
+    "main.js.map": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/main.dbbc3951.chunk.js.map",
+    "runtime-main.js": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/runtime-main.7956c134.js",
+    "runtime-main.js.map": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/runtime-main.7956c134.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/cs7580sp21-seattle/zitao_shen_assignment3/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.9cff4757.chunk.js": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/2.9cff4757.chunk.js",
+    "static/js/2.9cff4757.chunk.js.map": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/2.9cff4757.chunk.js.map",
+    "static/js/3.514fb4cd.chunk.js": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/3.514fb4cd.chunk.js",
+    "static/js/3.514fb4cd.chunk.js.map": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/3.514fb4cd.chunk.js.map",
+    "index.html": "/cs7580sp21-seattle/zitao_shen_assignment3/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/cs7580sp21-seattle/zitao_shen_assignment3/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.02054cf4.chunk.css.map": "/cs7580sp21-seattle/zitao_shen_assignment3/static/css/main.02054cf4.chunk.css.map",
+    "static/js/2.9cff4757.chunk.js.LICENSE.txt": "/cs7580sp21-seattle/zitao_shen_assignment3/static/js/2.9cff4757.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7956c134.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.9cff4757.chunk.js",
+    "static/css/main.02054cf4.chunk.css",
+    "static/js/main.dbbc3951.chunk.js"
+  ]
+}
